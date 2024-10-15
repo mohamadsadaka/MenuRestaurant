@@ -1,0 +1,83 @@
+.color-body{
+  background-color: #f8f8f8;
+  height: 100vh;
+}
+.font{
+  font-family: "Almarai", sans-serif;
+}
+.title{
+  color:#224f61;
+font-size: 30px;
+font-weight: bold;
+letter-spacing: 0;
+line-height: 64px;
+}
+.nuderline{
+  height: 2px;
+  width: 150px;
+  border-radius: 10px;
+  border: 2px solid #b45b35;
+
+}
+.btn-category{
+  padding: 10px 20px;
+  color: #8c8c8c;
+  font-size: 15px;
+  border-radius: 10px;
+  border: 1px solid #b4603c;
+  background-color: white;
+}
+.btn-category:hover{
+  background-color: #b4603c;
+  color: white; 
+}
+
+.btn-search{
+  color: #8c8c8c;
+  font-size: 20px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 24px;
+  border-radius: 10px;
+}
+.btn-search:hover{
+  color:white;
+  font-size: 18px;
+  border-radius: 11px;
+  border: none;
+  background-color: #b45b35;
+}
+.brand-color{
+  color: #b45b35;
+}
+.img-item{
+ height: 200px;
+ width: 250px;
+  border-radius: 10px;
+  object-fit: cover;
+}
+.item-description{
+  color: #8c8c8c;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 21px;
+}
+.item-title{
+  color:#555555;
+  font-family: "Almarai", sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+.card-color{
+  background-color: #f8f8f8;
+}
+.item-price{
+  color: #b45b35;
+  font-family: "Almarai", sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 21px;
+}
